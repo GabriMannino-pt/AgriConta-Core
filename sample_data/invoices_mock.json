@@ -1,0 +1,52 @@
+[
+  {
+    "id": "INV-2026-001",
+    "numero": "142/A",
+    "fornitore": "AgroBio Fertilizzanti SpA",
+    "data": "2026-03-15",
+    "anno": 2026,
+    "imponibile": 2400.00,
+    "totale": 2640.00,
+    "descrizione": "Fornitura concime biologico NPK e biostimolanti fogliari"
+  },
+  {
+    "id": "INV-2026-002",
+    "numero": "88/2026",
+    "fornitore": "Consorzio Gasolio Agricolo UMA",
+    "data": "2026-04-02",
+    "anno": 2026,
+    "imponibile": 1850.00,
+    "totale": 2035.00,
+    "descrizione": "Consegna litri 2000 gasolio agricolo agevolato UMA"
+  },
+  {
+    "id": "INV-2026-003",
+    "numero": "E-9912",
+    "fornitore": "National Green Energy SpA",
+    "data": "2026-05-10",
+    "anno": 2026,
+    "imponibile": 1120.00,
+    "totale": 1366.40,
+    "descrizione": "Fornitura energia elettrica pompe pozzo irriguo - POD IT001E88291039"
+  },
+  {
+    "id": "INV-2026-004",
+    "numero": "TR-402",
+    "fornitore": "Officina Meccanica Trattori & Macchine",
+    "data": "2026-06-18",
+    "anno": 2026,
+    "imponibile": 780.00,
+    "totale": 951.60,
+    "descrizione": "Manutenzione straordinaria trincia e ricambi pompa irroratrice"
+  },
+  {
+    "id": "INV-2026-005",
+    "numero": "AG-12",
+    "fornitore": "Studio Agronomico Associato",
+    "data": "2026-07-01",
+    "anno": 2026,
+    "imponibile": 1200.00,
+    "totale": 1464.00,
+    "descrizione": "Consulenza piano di concimazione e certificazione GlobalGAP"
+  }
+]

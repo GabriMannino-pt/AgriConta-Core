@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment and sensitive keys
+.env
+.env.*
+*.key
+*.pem
+
+# Sensitive data documents (Never commit real fiscal documents or databases)
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore generated reports and runtime data
+reports/*.json
+reports/*.md
+!reports/.gitkeep
+data/

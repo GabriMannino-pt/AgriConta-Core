@@ -1,0 +1,30 @@
+[
+  {
+    "data_operazione": "18.03.2026",
+    "data_valuta": "18.03.2026",
+    "importo": -2640.00,
+    "descrizione": "Bonifico Sepa a favore di AgroBio Fertilizzanti SpA saldo fatt 142/A",
+    "fonte": "Estratto Conto Aziendale"
+  },
+  {
+    "data_operazione": "05.04.2026",
+    "data_valuta": "05.04.2026",
+    "importo": -2035.00,
+    "descrizione": "Disposizione Bonifico UMA Carburanti rif fatt 88/2026",
+    "fonte": "Estratto Conto Aziendale"
+  },
+  {
+    "data_operazione": "12.05.2026",
+    "data_valuta": "12.05.2026",
+    "importo": -1366.40,
+    "descrizione": "SDD Sepa Direct Debit National Green Energy SpA POD IT001E88291039",
+    "fonte": "Estratto Conto Aziendale"
+  },
+  {
+    "data_operazione": "22.06.2026",
+    "data_valuta": "22.06.2026",
+    "importo": -951.60,
+    "descrizione": "Bonifico bancario Officina Meccanica Trattori riparazione",
+    "fonte": "Estratto Conto Aziendale"
+  }
+]
